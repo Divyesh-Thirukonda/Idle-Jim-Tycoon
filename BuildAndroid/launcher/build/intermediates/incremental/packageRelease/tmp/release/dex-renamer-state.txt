@@ -1,0 +1,4 @@
+#Mon Aug 08 22:30:27 CDT 2022
+base.0=C\:\\UnityProjects\\Idle Jim Tycoon [Game Design TODO]\\BuildAndroid\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
